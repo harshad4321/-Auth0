@@ -1,0 +1,23 @@
+{
+  "name": "oauth",
+  "version": "1.0.0",
+  "description": "OAuth",
+  "main": "index.js",
+  "scripts": {
+    "test": "OAuth"
+  },
+  "repository": {
+    "type": "git",
+    "url": "OAuth"
+  },
+  "keywords": [
+    "OAuth"
+  ],
+  "author": "OAuth",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-openid-connect": "^2.12.0"
+  }
+}
