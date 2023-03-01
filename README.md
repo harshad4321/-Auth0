@@ -1,18 +1,18 @@
 # OAuth
 
 ## Description
-OAuth is a simple Node.js application that demonstrates how to implement authentication and authorization using the OAuth 2.0 protocol. This project uses the Express.js framework and the express-openid-connect middleware to handle user authentication and authorization.
+OAuth is a simple Node.js application that demonstrates how to implement authentication and authorization using the OAuth 2.0 protocol. This project uses the [Express.js](https://expressjs.com/) framework and the [express-openid-connect](https://github.com/auth0/express-op) middleware to handle user authentication and authorization.
 
 ## Getting Started
 To get started with this project, you'll need to have Node.js and NPM (Node Package Manager) installed on your computer. Then, clone the repository and install the project dependencies:
 
-git clone https://github.com/<your-username>/oauth.git
-cd oauth
-npm install
+`git clone https://github.com/harshad4321/-Auth0/` <br>
+`cd oauth` <br>
+`npm install `<br>
 
 After that, you can start the application by running the following command:
 
-npm start
+`npm start`
 
 
 This will start the server and you can access the application at `http://localhost:3000`.
